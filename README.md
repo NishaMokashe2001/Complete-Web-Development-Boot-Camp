@@ -29,11 +29,9 @@ Exploring web technologies step by step and sharing my progress.
 
 **📫 Let’s Connect**
 **💼 GitHub**
-![GitHub](https://github.com/NishaMokashe2001/Complete-Web-Development-Boot-Camp)
 ### 📊 GitHub Stats  
 
 ![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishaMokashe2001&show_icons=true&theme=radical)
-  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaMokashe2001&layout=compact&theme=radical)  
 

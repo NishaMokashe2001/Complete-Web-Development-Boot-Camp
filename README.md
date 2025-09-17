@@ -32,7 +32,8 @@ Exploring web technologies step by step and sharing my progress.
 
 ### 📊 GitHub Stats  
 
-![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishaMokashe2001&show_icons=true&theme=radical)  
+![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishaMokashe2001&show_icons=true&theme=radical)
+  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaMokashe2001&layout=compact&theme=radical)  
 
